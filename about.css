@@ -1,0 +1,147 @@
+
+    
+    /* @media (min-width: 768px) {
+    .gradient-form {
+    height: 100vh !important;
+    }
+    }
+    @media (min-width: 769px) {
+    .gradient-custom-2 {
+    border-top-right-radius: .3rem;
+    border-bottom-right-radius: .3rem;
+    }
+    }
+
+    #login {
+        width: 500px;
+    } */
+
+
+
+
+
+
+
+
+
+
+
+
+
+   /* styles.css */
+   .faqja{
+    display: flex;
+    justify-content: start;
+    flex-direction: column;
+   }
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* height: 100vh; */
+    /* width: 100%; */
+
+
+.login-container {
+    background-color: #fff;
+    padding: 40px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    /* width: 100%; */
+    /* max-width: 400px; Limits the width of the form */
+    text-align: center;
+    border: 1px solid black;
+    width: 50%;
+    margin-left: 500px;
+    
+}
+
+h2 {
+    margin-bottom: 20px;
+    font-size: 24px;
+    color: #333;
+}
+
+.input-group {
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+.input-group label {
+    font-size: 14px;
+    color: #555;
+}
+
+.input-group input {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    margin-top: 5px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    outline: none;
+}
+
+.input-group input:focus {
+    border-color: #007bff;
+}
+
+.login-btn {
+    width: 100%;
+    padding: 12px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.login-btn:hover {
+    background-color: #0056b3;
+}
+
+.footer {
+    margin-top: 15px;
+}
+
+.footer p {
+    font-size: 14px;
+}
+
+.footer a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+}
+
+/* Media Query for Responsiveness */
+@media (max-width: 576px) {
+    .login-container {
+        padding: 30px;
+    }
+
+    h2 {
+        font-size: 20px;
+    }
+} 
+.container-footer{
+    
+    display: flex;
+    align-content: center;
+    flex-direction: column;
+}
+.foter{
+    margin-top: 300px;
+}
